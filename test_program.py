@@ -1,3 +1,3 @@
-from ocean import fishsticks
+from 0cean import fishsticks
 
-print("yummmm")
+print("yufishfishfishmmmm")
