@@ -4,4 +4,7 @@ if fish_yummy:
 print(f"yufishfishfishmmmm")
 big_picture()
 
+big-program-input
+
+print("yummmm")
 print(yeet)
